@@ -1,2 +1,2 @@
 # Bangla-Sentences
-There are about 1 crore Bangla preocessed sentences collected from various domains like Sachalayoton,prothom alo comments, jugantor. Main Contributors of these data collection are Muntasir Wahed, Redwan Ahmed Rizvee.
+This github project consists of about 1 crore bangla sentences collected from various resources like Sachalayoton, prothom alo comments, jugantor etc. Main contributors of this project is Muntasir Wahed, Redwan Ahmed Rizvee. This work was done for Natural Language Processing Lab of CSEDU in session 2017-18 under the supervision of Dr. Mohammad Shoyaib and Dr. Muhammad Asif Hossain Khan. Contributors express special gratitude to Al Zihad Tiash and Fahim Arefin, two alumni of CSEDU for helping in various situations. 
